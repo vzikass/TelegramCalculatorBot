@@ -37,9 +37,6 @@ func main() {
 				msg := tgbotapi.NewMessage(update.Message.Chat.ID, fmt.Sprintf("For example:  /calc 2 + 2 . "+
 					"You can use: \"+\" \"-\" \"*\"\"/\""))
 				bot.Send(msg)
-
-			default:
-				//TODO
 			}
 		}
 		// connect calculator
