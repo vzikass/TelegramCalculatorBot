@@ -3,7 +3,7 @@
 ## Project launch
 
 ```
-git clone https://github.com/vzikass/AuthDB
+git clone https://github.com/vzikass/TelegramCalculatorBot
 ```
 When you're ready, start your application by running:
 ```
